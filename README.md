@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/vavinash992/vavinash992/blob/main/git.gif">
+
 - 🌱 I’m currently learning **Django,Tensorflow**
 
 - 💬 Ask me about **Data science,machine learning**
