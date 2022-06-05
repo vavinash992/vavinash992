@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emaginationtechcamps.com%2Fcoding-in-c-computer-tech-camp&psig=AOvVaw3DpVNhwh-tNKaDTlTYZmsn&ust=1654498187164000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDs3fmllvgCFQAAAAAdAAAAABAc">
 - 🌱 I’m currently learning **Django,Tensorflow**
 
 - 💬 Ask me about **Data science,machine learning**
