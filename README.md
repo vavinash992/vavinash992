@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist and web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/vavinash992/vavinash992/blob/main/git.gif">
 
