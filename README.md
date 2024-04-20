@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/vavinash992/vavinash992/blob/main/git.gif">
 
-- 🌱 I’m currently learning **Django,Tensorflow**
+- 🌱 I’m currently learning **RAG,QLORA**
 
-- 💬 Ask me about **Data science,machine learning**
+- 💬 Ask me about **machine learning**
 
 - 📫 How to reach me **vavinash992@gmail.com**
 
