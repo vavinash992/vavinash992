@@ -8,9 +8,7 @@
 - 💬 Ask me about **machine learning**
 
 - 📫 How to reach me **vavinash992@gmail.com**
-
-- As you are here why don't you check some of my cool projects and if possible contributing to them would be more great
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/avin4sh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__v.a12__" height="30" width="40" /></a>
